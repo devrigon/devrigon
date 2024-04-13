@@ -1,6 +1,11 @@
-### Hello! I'm Marcelo Rigon 👋🏻
 
-![Marcelo Rigon GitHub stats](https://github-readme-stats.vercel.app/api?username=devrigon&show_icons=true&theme=tokyonight)
+
+<h2 align="left">Hello 👋! My name is Marcelo Rigon and I work as a QA, but my eyes shine for programming. 👨🏻‍💻🫣</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devrigon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devrigon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ### Technologies that i use
 
@@ -19,5 +24,3 @@
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div></br>
-
-### A tecnologia sempre fez parte da minha vida, venho sempre estudando e trabalhando para melhorar meus conhecimentos. Atualmente trabalho como QA, mas sempre olho com carinho para programação. 👨🏻‍💻🫣
