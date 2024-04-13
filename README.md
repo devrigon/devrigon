@@ -1,25 +1,16 @@
   <!-- Presentation -->
-  <p>
-    Hi!👋 My name is Marcelo Rigon and I work as a QA, i'm from Brazil and passionate Programming.
-  
-    - 🌱 I’m currently studying QA and Software Development at Udemy and Youtube. 
-  
-    - 🔭 I'm looking for new opportunities. My dream is to work with Software Development in other coutry.
-  </p>
-  
-  <!-- Dropdown -->
- <p>
-    👨‍💻 More about me</summary>
-  
-    - 💬 I'm 27 years old, currently living in Brazil. I have advanced level in English and have experience with  HTML, CSS,
-    Bootstrap, NodeJS, ReactJS, Vue, JavaScript, TypeScript, Kubernetes, Docker, Cypress, BDD, TDD, Version control using Azure DevOps,
-    API/RestAPI , SQLServer, Data structures and algorithms knowledge. I'm also have great ease in relating to people,
-    I am very accessible to answer questions and also to learn from other people.
+  ## Hi!👋 My name is Marcelo Rigon and I work as a QA, i'm from Brazil and passionate Programming.</br>
 
+  🌱 I’m currently studying QA and Software Development at Udemy and Youtube. 
   
-    - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! 
-    I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-  </p>
+  🔭 I'm looking for new opportunities. My dream is to work with Software Development in other coutry. </br>
+ 
+  <!-- Dropdown -->
+ ## 👨‍💻 More about me</summary></br> 
+
+  💬 I'm 27 years old, currently living in Brazil. I have advanced level in English and have experience with  HTML, CSS, Bootstrap, NodeJS, ReactJS, Vue, JavaScript, TypeScript, Kubernetes, Docker, Cypress, BDD, TDD, Version control using Azure DevOps, API/RestAPI , SQLServer, Data structures and algorithms knowledge. I'm also have great ease in relating to people, i'm very accessible to answer questions and also to learn from other people.</br> 
+
+  ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.</br> </br> 
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devrigon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
