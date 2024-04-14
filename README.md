@@ -1,5 +1,5 @@
   <!-- Presentation -->
-  ## Hi!👋 My name is Marcelo Rigon and I work as a QA, i'm from Brazil and passionate Programming.</br>
+  ## Hello!👋 Welcome to my profile, my name is Marcelo Rigon and here i share my projects and new ideas. I hope to help solve problems and learn from the community as well.</br>
 
   🌱 I’m currently studying QA and Software Development at Udemy and Youtube. 
   
