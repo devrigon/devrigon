@@ -3,7 +3,7 @@
 
   🌱 I’m currently studying QA and Software Development at Udemy and Youtube. 
   
-  🔭 I'm looking for new opportunities. My dream is to work with Software Development in other coutry. </br>
+  🔭 I'm looking for new opportunities. My dream is to work with Software Development or QA Engineer in other coutry. </br>
  
   <!-- Dropdown -->
  ## 👨‍💻 More about me</summary></br> 
